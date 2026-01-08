@@ -1,4 +1,4 @@
-# Bash Automation Toolkit 🛠
+# Bash Automation Toolkit
 
 A collection of Bash scripts to automate common Linux administrative tasks.
 
